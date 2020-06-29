@@ -1,2 +1,2 @@
 # Perdi-muito-tempo-da-minha-vida-com-c
-tudo que eu ja fiz em C até agr
+tudo que eu ja fiz em C até agr, não consegui recuperar tudo...
